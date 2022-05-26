@@ -1,1 +1,13 @@
 This is my new file02
+
+Add new line 01
+
+Add new line 02
+
+Add new line 03
+
+Add new line 04
+
+Add new line 05
+
+Add new line 06
